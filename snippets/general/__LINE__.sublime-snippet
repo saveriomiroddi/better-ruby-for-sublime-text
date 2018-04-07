@@ -1,5 +1,0 @@
-<snippet>
-    <content><![CDATA[__LINE__]]></content>
-    <tabTrigger>line</tabTrigger>
-    <scope>source.ruby</scope>
-</snippet>

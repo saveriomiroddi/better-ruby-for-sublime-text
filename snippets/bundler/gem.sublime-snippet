@@ -1,7 +1,0 @@
-<snippet>
-  <content><![CDATA[
-gem ${TM_QUOTE}${1:gem name}${TM_QUOTE}${2:, ${TM_QUOTE}${3:version}${TM_QUOTE}}
-]]></content>
-  <tabTrigger>gem</tabTrigger>
-  <scope>source.ruby.bundler</scope>
-</snippet>

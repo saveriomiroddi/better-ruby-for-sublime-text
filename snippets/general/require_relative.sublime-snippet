@@ -1,5 +1,0 @@
-<snippet>
-  <content><![CDATA[require_relative ${TM_QUOTE}$0${TM_QUOTE}]]></content>
-  <tabTrigger>rr</tabTrigger>
-  <scope>source.ruby</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[visit ${1:path}]]></content>
-    <tabTrigger>vis</tabTrigger>
-    <scope>meta.rails.integration_test</scope>
-    <description>visit (capybara)</description>
-</snippet>

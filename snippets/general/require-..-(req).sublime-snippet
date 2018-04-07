@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[require ${TM_QUOTE}$0${TM_QUOTE}]]></content>
-    <tabTrigger>req</tabTrigger>
-    <scope>source.ruby</scope>
-    <description>require ".."</description>
-</snippet>
