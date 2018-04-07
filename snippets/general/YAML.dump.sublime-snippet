@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[YAML.dump(${1:object}${2:, ${3:io}})]]></content>
-    <tabTrigger>yd</tabTrigger>
-    <scope>source.ruby</scope>
-    <description>YAML.dump(*args)</description>
-</snippet>

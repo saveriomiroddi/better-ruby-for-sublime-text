@@ -1,9 +1,0 @@
-<snippet>
-  <content><![CDATA[
-git ${TM_QUOTE}${1:repository}${TM_QUOTE} do
-  $0
-end
-]]></content>
-  <tabTrigger>git</tabTrigger>
-  <scope>source.ruby.bundler</scope>
-</snippet>

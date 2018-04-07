@@ -1,8 +1,0 @@
-<snippet>
-    <content><![CDATA[setup do
-  $0
-end]]></content>
-    <tabTrigger>setup</tabTrigger>
-    <scope>meta.ruby.test_case</scope>
-    <description>setup(&amp;block)</description>
-</snippet>

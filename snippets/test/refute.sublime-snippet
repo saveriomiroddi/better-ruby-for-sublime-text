@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[refute ${1:test}]]></content>
-    <tabTrigger>rs</tabTrigger>
-    <scope>meta.ruby.test_case.test</scope>
-    <description>refute(..)</description>
-</snippet>

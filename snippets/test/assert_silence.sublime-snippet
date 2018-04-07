@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[assert_silence { $0 }]]></content>
-    <tabTrigger>asrs</tabTrigger>
-    <scope>meta.ruby.test_case.test</scope>
-    <description>assert_silence { .. }</description>
-</snippet>
