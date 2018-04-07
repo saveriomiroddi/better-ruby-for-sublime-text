@@ -94,7 +94,7 @@ contexts:
       scope: keyword.operator.logical.goby
     - match: '^!+|(?<=[ \t])!+|&&|\|\||\^'
       scope: keyword.operator.logical.goby
-    - match: '(?<!\.)\b(alias|alias_method|break|next|redo|retry|return|super|undef|yield)\b(?![?!])|\bdefined\?|\bblock_given\?'
+    - match: '(?<!\.)\b(alias|alias_method|break|next|redo|retry|return|super|undef|yield|get_block)\b(?![?!])|\bdefined\?|\bblock_given\?'
       comment: just as above but being not a logical operation
       scope: keyword.control.pseudo-method.goby
     - match: '\b(nil|true|false)\b(?![?!])'
